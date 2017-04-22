@@ -1,0 +1,5 @@
+_config.yml
+
+markdown: redcarpet
+baseurl: /dig-deep-for-equity
+exclude: [README.MD]
